@@ -5,4 +5,8 @@ Modify3 23:54
 Modify4
 Modify5
 Modify6 00:25
+<<<<<<< HEAD
 Modify8 GitHubTest
+=======
+Modify7 AddToGitHubSuccessfully
+>>>>>>> c6ecf2e3c9e57cada24ec01468ca08b413230d8c
